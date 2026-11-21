@@ -5,24 +5,24 @@
   "sources": [
     {
       "repository": "https://github.com/yuxuan6426/thermal-pde-audit",
-      "commit": "42fc895d66ddb1a44c23509e8e9c6c8491295161",
+      "commit": "9a92e073937d1594f99618baaea19f70767d35e6",
       "patterns": ["Bilingual overview navigation", "Ordinary CPU CI with Skill metadata, task preflight and saved-evidence checks"],
       "files": ["README.md", "README.en.md", ".github/workflows/cpu-validation.yml", "scripts/validate_skill.py"],
-      "reference_url": "https://github.com/yuxuan6426/thermal-pde-audit/blob/42fc895d66ddb1a44c23509e8e9c6c8491295161/.github/workflows/cpu-validation.yml"
+      "reference_url": "https://github.com/yuxuan6426/thermal-pde-audit/blob/9a92e073937d1594f99618baaea19f70767d35e6/.github/workflows/cpu-validation.yml"
     },
     {
       "repository": "https://github.com/yuxuan6426/general-physics-lab",
-      "commit": "ef5ea82c843eb2a6c59924cab215b75edb0af3dd",
+      "commit": "226710f445a33612e543dd0f9942043887f73365",
       "patterns": ["Task-oriented reader navigation", "Stable resource identifiers, machine catalog and deterministic freshness checks", "Versioned release packages bound to source and verification records", "Explicit runtime coverage in CI"],
       "files": ["README.md", "llms.txt", "docs/agent-catalog.md", "docs/agent-guide.md", "scripts/package_release.py", ".github/workflows/python.yml"],
-      "reference_url": "https://github.com/yuxuan6426/general-physics-lab/blob/ef5ea82c843eb2a6c59924cab215b75edb0af3dd/docs/agent-catalog.md"
+      "reference_url": "https://github.com/yuxuan6426/general-physics-lab/blob/226710f445a33612e543dd0f9942043887f73365/docs/agent-catalog.md"
     },
     {
       "repository": "https://github.com/yuxuan6426/phy-sim-llm",
-      "commit": "03909825cafd45b6a2a53c617076d97f1e55e0ea",
+      "commit": "6a4ad97e9fc0c7f8ea5097a267e5bdfade616bfa",
       "patterns": ["Separate reading, reproduction and maintenance entry points", "Paper claims linked to implementation and recorded checks", "Citation metadata consistency checks"],
       "files": ["README.md", "llms.txt", "MAINTENANCE.md", "docs/PAPER_TRACEABILITY.md"],
-      "reference_url": "https://github.com/yuxuan6426/phy-sim-llm/blob/03909825cafd45b6a2a53c617076d97f1e55e0ea/docs/PAPER_TRACEABILITY.md"
+      "reference_url": "https://github.com/yuxuan6426/phy-sim-llm/blob/6a4ad97e9fc0c7f8ea5097a267e5bdfade616bfa/docs/PAPER_TRACEABILITY.md"
     },
     {
       "repository": "https://github.com/yuxuan6426/cluetide-review",

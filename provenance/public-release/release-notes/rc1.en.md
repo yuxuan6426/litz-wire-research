@@ -1,6 +1,6 @@
 # Litz Wire Research v1.0.0-rc.1 — historical research evidence
 
-This release preserves the original research source and evidence. Its existing tag remains at [`29bfaef3cb4e4f0016b4567edc501f34c50542d7`](https://github.com/yuxuan6426/litz-wire-research/commit/29bfaef3cb4e4f0016b4567edc501f34c50542d7).
+This release preserves the original research source and evidence. Its existing tag remains at [`5b4587ad36b74f0016b4567edc501f34c50542d7`](https://github.com/yuxuan6426/litz-wire-research-archive-20261030-003257/commit/5b4587ad36b70af09ba563bfbc6ca7e41c1aae29).
 
 The current [dataset catalog](https://github.com/yuxuan6426/litz-wire-research/blob/main/data/catalog.json) selects 13 datasets and 65 archive parts from this release: analytical calibration, two-dimensional FEM, common-terminal circuits, geometry, PEEC, RT0, A–φ diagnostics, Ansys and GPU records, publication inputs, historical editions, shared objects and research records. Manifests retain the original paths, byte counts, hashes and source-version identities.
 

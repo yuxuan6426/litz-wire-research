@@ -32,7 +32,7 @@ The targeted [disclosure check](../provenance/maintenance/source-disclosure-2026
 
 ## Released revision and public access
 
-The maintained source release is `v1.0.0-rc.3`; frozen evidence and manuscripts remain attached to rc.1 and rc.2. Source revision checked for release: [`01aa0bc3dc12a548301a148f8fc99e12a241e075`](https://github.com/yuxuan6426/litz-wire-research/commit/01aa0bc3dc12a548301a148f8fc99e12a241e075). Observation time: `2026-10-19T17:41:25.820878+00:00`.
+The maintained source release is `v1.0.0-rc.3`; frozen evidence and manuscripts remain attached to rc.1 and rc.2. Source revision checked for release: [`19fa27d27cdaa548301a148f8fc99e12a241e075`](https://github.com/yuxuan6426/litz-wire-research-archive-20261030-003257/commit/19fa27d27cda2d68095098110a66a1a17eb95878). Observation time: `2026-10-19T17:41:25.820878+00:00`.
 
 | Check | Observed result |
 | --- | --- |

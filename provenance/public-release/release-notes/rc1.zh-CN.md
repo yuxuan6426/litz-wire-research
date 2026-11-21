@@ -1,6 +1,6 @@
 # Litz Wire Research v1.0.0-rc.1 — 历史研究证据
 
-本 Release 保留原研究源码与证据，既有标签继续指向 [`29bfaef3cb4e4f0016b4567edc501f34c50542d7`](https://github.com/yuxuan6426/litz-wire-research/commit/29bfaef3cb4e4f0016b4567edc501f34c50542d7)。
+本 Release 保留原研究源码与证据，既有标签继续指向 [`5b4587ad36b74f0016b4567edc501f34c50542d7`](https://github.com/yuxuan6426/litz-wire-research-archive-20261030-003257/commit/5b4587ad36b70af09ba563bfbc6ca7e41c1aae29)。
 
 当前[数据目录](https://github.com/yuxuan6426/litz-wire-research/blob/main/data/catalog.json)从本 Release 选取 13 个数据集、65 个归档分片，覆盖解析校准、二维 FEM、共同端电压场路、几何、PEEC、RT0、A–φ 诊断、Ansys 与 GPU 记录、成稿输入、历史稿件、共享对象及研究记录。清单保留原路径、字节数、哈希和来源版本身份。
 

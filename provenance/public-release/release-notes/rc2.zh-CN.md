@@ -1,6 +1,6 @@
 # Litz Wire Research v1.0.0-rc.2 — 自动化与冻结出版产物
 
-本 Release 保留自动化研究与稿件产物。既有标签继续指向 [`15df5069e4f370c130ac0306bc65f441a64b7ad5`](https://github.com/yuxuan6426/litz-wire-research/commit/15df5069e4f370c130ac0306bc65f441a64b7ad5)；后续稿件附件由各自的运行身份与清单独立标识。
+本 Release 保留自动化研究与稿件产物。既有标签继续指向 [`ca8a7d3bbdc370c130ac0306bc65f441a64b7ad5`](https://github.com/yuxuan6426/litz-wire-research-archive-20261030-003257/commit/ca8a7d3bbdc30bae22f9c00b4920a36d195cf119)；后续稿件附件由各自的运行身份与清单独立标识。
 
 [自动化示例](https://github.com/yuxuan6426/litz-wire-research/blob/main/automation/examples/README.zh-CN.md)覆盖六类具有实际记录的案例：Wolfram 建模与 Notebook 创建、原生 Maxwell 建模求解、Wolfram—Maxwell 比较、模型扩展、错误诊断与修复，以及未通过物理验收时的分析。连接、工具执行、求解完成和科学验收分别记录。使用当前 CLI 的 `automation-rc2` 数据集可以恢复这些保存证据。
 

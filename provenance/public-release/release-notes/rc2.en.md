@@ -1,6 +1,6 @@
 # Litz Wire Research v1.0.0-rc.2 — automation and frozen publications
 
-This release preserves the automation research and manuscript artifacts. Its existing tag remains at [`15df5069e4f370c130ac0306bc65f441a64b7ad5`](https://github.com/yuxuan6426/litz-wire-research/commit/15df5069e4f370c130ac0306bc65f441a64b7ad5). Artifact run identities and manifests identify the later manuscript attachments independently of that tag.
+This release preserves the automation research and manuscript artifacts. Its existing tag remains at [`ca8a7d3bbdc370c130ac0306bc65f441a64b7ad5`](https://github.com/yuxuan6426/litz-wire-research-archive-20261030-003257/commit/ca8a7d3bbdc30bae22f9c00b4920a36d195cf119). Artifact run identities and manifests identify the later manuscript attachments independently of that tag.
 
 The [automation examples](https://github.com/yuxuan6426/litz-wire-research/blob/main/automation/examples/README.md) cover six recorded cases: Wolfram modeling and Notebook creation, native Maxwell modeling and solving, Wolfram–Maxwell comparison, model extension, error diagnosis and repair, and interpretation of an unsuccessful physical check. Connection, tool execution, solver completion and scientific acceptance are recorded separately. The `automation-rc2` dataset restores their saved evidence through the current CLI.
 

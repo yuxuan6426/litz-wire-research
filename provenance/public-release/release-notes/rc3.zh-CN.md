@@ -13,7 +13,7 @@
 
 本次维护增加按任务组织的阅读入口、机器可读的模型／工作流／稿件目录、自动生成的出版索引、双语贡献与开发指南，以及 Windows／Ubuntu × Python 3.11／3.12 源码 CI。下载器保留 GitHub 附件 ID，采用核验过的公开下载地址，并检查分片及恢复文件的哈希。
 
-本次发布检查对应的源码提交：[`01aa0bc3dc12a548301a148f8fc99e12a241e075`](https://github.com/yuxuan6426/litz-wire-research/commit/01aa0bc3dc12a548301a148f8fc99e12a241e075)。源码与维护测试：四个矩阵组合各通过 59 项测试。托管 CI：四个组合全部通过（[运行记录](https://github.com/yuxuan6426/litz-wire-research/actions/runs/39289553044)）。匿名下载与恢复结果：127/127 个 Release 附件完成无凭据全量下载，8,578,518,566 字节及全部 SHA256 一致；rc.3 源码 ZIP 的 972 个文件全部匹配提交; 全新 Python 3.12 环境恢复全部 874 个解析文件；679 个依赖及数据对象（660,867,640 字节）哈希全部通过；未使用凭据或认证子进程。[公开分发记录](https://github.com/yuxuan6426/litz-wire-research/blob/main/docs/open-source-readiness.zh-CN.md)链接源码、发布状态与下载证据。
+本次发布检查对应的源码提交：[`19fa27d27cdaa548301a148f8fc99e12a241e075`](https://github.com/yuxuan6426/litz-wire-research-archive-20261030-003257/commit/19fa27d27cda2d68095098110a66a1a17eb95878)。源码与维护测试：四个矩阵组合各通过 59 项测试。托管 CI：四个组合全部通过（[运行记录](https://github.com/yuxuan6426/litz-wire-research/actions/runs/39289553044)）。匿名下载与恢复结果：127/127 个 Release 附件完成无凭据全量下载，8,578,518,566 字节及全部 SHA256 一致；rc.3 源码 ZIP 的 972 个文件全部匹配提交; 全新 Python 3.12 环境恢复全部 874 个解析文件；679 个依赖及数据对象（660,867,640 字节）哈希全部通过；未使用凭据或认证子进程。[公开分发记录](https://github.com/yuxuan6426/litz-wire-research/blob/main/docs/open-source-readiness.zh-CN.md)链接源码、发布状态与下载证据。
 
 ## 科学内容与产物身份
 
